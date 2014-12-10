@@ -1,2 +1,2 @@
 main:
-    g++ main.cpp -o cpp_vs_c
+	g++ main.cpp -O3 -o cpp_vs_c
